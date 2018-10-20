@@ -1,0 +1,33 @@
+.float-r{
+    float: right;
+    direction: rtl
+}
+
+.header{
+     font-size: 14pt;
+}
+
+li{
+    margin-top: 15px;
+    margin-right:10px;
+    direction: rtl;
+    padding-bottom: 15px;
+    
+    font-size: 14pt;
+}
+
+ul{list-style: none;}
+
+
+.ln{
+    padding-top: 20px;
+list-style: none;
+background-color: #ed1459 ;
+border-radius: 10px;
+width: 35vw;
+margin: 0 auto;
+height:5vw ;
+text-align: right;
+word-break: normal;
+line-height: 1.5
+}
